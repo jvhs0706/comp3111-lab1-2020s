@@ -6,4 +6,4 @@ Name: Haochen SUN
 itsc: hsunai
 
 screenshot: 
-![NMSL](Annotation 2020-02-26 165706.jpg)
+![ss](https://github.com/jvhs0706/comp3111-lab1-2020s/blob/master/Annotation%202020-02-26%20165706.jpg)
